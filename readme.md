@@ -7,7 +7,10 @@ locate it.
 
 ![screenshot](screen.png)
 
-### How it works?
+### Download Link
+[Click here for the latest release](https://github.com/gampleman/alfred-find-my-iphone/releases/latest)
+
+### Installation
 
 After installing you will need to run `find my authenticate <icloud id> <icloud password>`
 to set it up. It will then fetch a list of your devices from the Find my iPhone iCloud
